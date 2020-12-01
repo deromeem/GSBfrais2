@@ -11,6 +11,7 @@
  * @author Cheri Bibi
  * @version    1.0
  * @link       http://www.php.net/manual/fr/book.pdo.php
+ *  ceci est un commentaire ;)
  */
 
 class PdoGsb{   		
