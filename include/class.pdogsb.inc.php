@@ -67,6 +67,7 @@ class.pdogsb.inc.php}
 /**
  * Retourne sous forme d'un tableau associatif toutes les lignes de frais hors forfait
  * concernées par les deux arguments
+ * Sakina ANVARALY
  
  * La boucle foreach ne peut être utilisée ici car on procède
  * à une modification de la structure itérée - transformation du champ date-
