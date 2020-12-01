@@ -46,7 +46,11 @@ class PdoGsb{
 /**
  * Retourne les informations d'un visiteur
  * Commentaire de JUQUEL Antonin 
+<<<<<<< HEAD
+ * commentaire de MAISURIA Anami
+=======
  * Commentaire de CHEN Xing :) 
+>>>>>>> 9484b8c73058586b07ed43544ac787e6f3a4d369
  * @param $login 
  * @param $mdp
  * @return l'id, le nom et le prénom sous la forme d'un tableau associatif 
