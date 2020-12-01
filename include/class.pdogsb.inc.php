@@ -1,7 +1,7 @@
 ﻿<?php
 /** 
  * Classe d'accès aux données. 
- 
+ * J'adore la vie mais encore plus la mort j'attend ça avec impatience :D K-S
  * Utilise les services de la classe PDO pour l'application GSB
  * Les attributs sont tous statiques : les 4 premiers concernent la connexion à la base de données
  * $monPdo de type PDO 
@@ -46,6 +46,11 @@ class PdoGsb{
 /**
  * Retourne les informations d'un visiteur
  * Commentaire de JUQUEL Antonin 
+<<<<<<< HEAD
+ * commentaire de MAISURIA Anami
+=======
+ * Commentaire de CHEN Xing :) 
+>>>>>>> 9484b8c73058586b07ed43544ac787e6f3a4d369
  * @param $login 
  * @param $mdp
  * @return l'id, le nom et le prénom sous la forme d'un tableau associatif 
