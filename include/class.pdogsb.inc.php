@@ -44,7 +44,7 @@ class PdoGsb{
 	}
 /**
  * Retourne les informations d'un visiteur
- 
+ * Commentaire de JUQUEL Antonin 
  * @param $login 
  * @param $mdp
  * @return l'id, le nom et le prénom sous la forme d'un tableau associatif 
